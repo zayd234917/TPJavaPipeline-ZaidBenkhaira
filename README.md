@@ -18,5 +18,16 @@
 <img width="564" height="523" alt="Branch_source" src="https://github.com/user-attachments/assets/274c1f4e-fa2d-4c0e-8043-fc0ebb6c4828" />
 
 ## github webhook:
+<img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/810cab6b-7f19-4382-84a7-442b6706fb08" />
 
-<img width="808" height="685" alt="webhook" src="https://github.com/user-attachments/assets/619a71f9-f2b4-4055-8238-d994875229f0" />
+<img width="500" height="600" alt="webhook" src="https://github.com/user-attachments/assets/619a71f9-f2b4-4055-8238-d994875229f0" />
+
+## Building in Jenkins :
+<img width="682" height="475" alt="Build_success" src="https://github.com/user-attachments/assets/4e6ee00d-bedc-43b5-a93a-f9d422f135f4" />
+
+> comme on vu la build de Jenkinsfile est termine avec succes !!
+
+<img width="950" height="383" alt="image" src="https://github.com/user-attachments/assets/14198da4-411e-4e2d-b658-bb39554b1b89" />
+
+> Et voila le build et automatiser de Chaque Branch
+
